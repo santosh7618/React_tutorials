@@ -1,6 +1,6 @@
 import React from 'react'
 import vg from "../Assets/2.webp";
-import {AiFillGoogleCircle,AiFillAmazonCircle,AiFillYoutube,AiFillInstagram} from "react-icons/ai";
+import { AiFillGoogleCircle, AiFillAmazonCircle, AiFillYoutube, AiFillInstagram } from "react-icons/ai";
 
 const Home = () => {
     return (
@@ -27,7 +27,7 @@ const Home = () => {
                 <div>
                     <h1>Who we are ?</h1>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex quasi natus debitis, beatae ullam eligendi sit. Vel nihil illo, dolor delectus reiciendis officia totam harum repellat, quia laudantium sit rerum!
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex quasi natus debitis, beatae ullam eligendi sit. Vel nihil illo, dolor delectus reiciendis officia totam harum repellat, quia laudantium sit rerum!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex quasi natus debitis, beatae ullam eligendi sit. Vel nihil illo, dolor delectus reiciendis officia totam harum repellat, quia laudantium sit rerum!
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex quasi natus debitis, beatae ullam eligendi sit. Vel nihil illo, dolor delectus reiciendis officia totam harum repellat, quia laudantium sit rerum!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex quasi natus debitis, beatae ullam eligendi sit. Vel nihil illo, dolor delectus reiciendis officia totam harum repellat, quia laudantium sit rerum!
                     </p>
                 </div>
             </div>

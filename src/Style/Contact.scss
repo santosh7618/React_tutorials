@@ -1,6 +1,6 @@
 @import "./Color.scss";
 
-.Contact{
+.Contact {
     width: 100%;
     height: 100vh;
     background-color: $second;
@@ -8,21 +8,21 @@
     justify-content: center;
     align-items: center;
 
-    >main{
+    >main {
         background-color: $first;
         height: 40rem;
         width: 70%;
         padding: 3rem;
         border-radius: 0 200px 200px 0;
 
-        >form{
+        >form {
             margin: 5rem;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
 
-            > div{
+            >div {
                 height: 3rem;
                 display: flex;
                 align-items: center;
@@ -30,12 +30,13 @@
                 width: 60%;
                 margin: 0.5rem;
 
-                >label{
+                >label {
                     font: 400 1.2rem $text1;
                     width: 20%;
                     margin: 0 1rem;
                 }
-                > input{
+
+                >input {
                     align-self: stretch;
                     width: 80%;
                     padding: 1rem;
@@ -44,7 +45,8 @@
                     outline: none;
                 }
             }
-            > button{
+
+            >button {
                 margin: 3rem 0;
                 padding: 0.7rem;
                 border: none;
@@ -53,7 +55,8 @@
                 color: $first;
                 width: 200px;
                 font: 500 1rem $text1;
-                &:hover{
+
+                &:hover {
                     opacity: 0.9;
                 }
             }
